@@ -1,7 +1,7 @@
 {
-  "name": "토목 현장계산기",
+  "name": "토목현장 계산기",
   "short_name": "토목계산기",
-  "description": "현장에서 바로 쓰는 토목 실용 계산기",
+  "description": "토목 현장에서 바로 쓰는 실용 계산기",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f0f4f0",
